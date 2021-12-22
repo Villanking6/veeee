@@ -69,7 +69,7 @@ async def start_private(client: Client, message: Message):
                 [InlineKeyboardButton("✨HELP✨", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("🍁CONTACT"🍁, url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
